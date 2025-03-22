@@ -1,0 +1,46 @@
+{
+    "ATL (Atlanta)": {
+        "tracking_details": [
+            {
+                "Date and time": "01 MARCH 2025 - 18:17",
+                "Description": "CPT: FWB RECEIVED FROM FORWARDER"
+            },
+            {
+                "Date and time": "01 MARCH 2025 - 16:25",
+                "Description": "FOH: 15 PCS ON HAND"
+            },
+            {
+                "Date and time": "01 MARCH 2025 - 16:27",
+                "Description": "RCS: 15 PCS READY FOR CARRIAGE"
+            },
+            {
+                "Date and time": "02 MARCH 2025 - 22:45",
+                "Description": "DEP: 15 PCS DEPARTED ON CV6101"
+            }
+        ]
+    },
+    "LUX (Luxembourg)": {
+        "tracking_details": [
+            {
+                "Date and time": "03 MARCH 2025 - 13:24",
+                "Description": "ARR: 15 PCS ARRIVED ON CV6101"
+            },
+            {
+                "Date and time": "03 MARCH 2025 - 16:45",
+                "Description": "RCF: 5 PCS RECEIVED FROM FLIGHT ON CV6101"
+            },
+            {
+                "Date and time": "04 MARCH 2025 - 04:37",
+                "Description": "RCF: 10 PCS RECEIVED FROM FLIGHT ON CV6101"
+            },
+            {
+                "Date and time": "04 MARCH 2025 - 19:55",
+                "Description": "NFD: 15 PCS READY FOR PICKUP"
+            },
+            {
+                "Date and time": "03 MARCH 2025 - 21:18",
+                "Description": "DLV: 15 PCS DELIVERED"
+            }
+        ]
+    }
+}
